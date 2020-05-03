@@ -1,15 +1,13 @@
-# tmux-airline-dracula
+# CodeMascot tmux Airline Dracula
 
-A tmux theme for Dracula color scheme.
-
-![Screenshot](https://raw.githubusercontent.com/sei40kr/tmux-airline-dracula/master/screenshot.png)
+A tmux theme for Dracula color scheme. Forked from [sei40kr/tmux-airline-dracula](https://github.com/sei40kr/tmux-airline-dracula)
 
 ## Installation
 
 1. Install using tpm.
 
     ```tmux
-    set -g @plugin 'sei40kr/tmux-airline-dracula'
+    set -g @plugin 'codemascot/tmux-airline-dracula'
     ```
 
 ## Manual Installation
@@ -17,7 +15,7 @@ A tmux theme for Dracula color scheme.
 1. Clone this repository.
 
     ```sh
-    git clone --depth=1 https://github.com/sei40kr/tmux-airline-dracula.git
+    git clone --depth=1 https://github.com/codemascot/tmux-airline-dracula.git
     ```
 
 1. Add following to your `.tmux.conf`.
