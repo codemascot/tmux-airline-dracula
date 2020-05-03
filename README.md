@@ -1,6 +1,6 @@
 # CodeMascot tmux Airline Dracula
 
-A tmux theme for Dracula color scheme. Forked from [sei40kr/tmux-airline-dracula](https://github.com/sei40kr/tmux-airline-dracula)
+A tmux theme for Dracula color scheme.
 
 ## Installation
 
@@ -23,4 +23,8 @@ A tmux theme for Dracula color scheme. Forked from [sei40kr/tmux-airline-dracula
     ```tmux
     run-shell '. /path/to/tmux-airline-dracula/airline-dracula.tmux'
     ```
+
+## Acknowledgement
+
+This theme is forked from [sei40kr/tmux-airline-dracula](https://github.com/sei40kr/tmux-airline-dracula).
 
