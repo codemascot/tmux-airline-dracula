@@ -14,7 +14,7 @@ main() {
   ## Icons
   #left_sep=''
   #right_sep=''
-  right_alt_sep='⬢' #'⬢⠶'
+  right_alt_sep='⠶' #'⬢⠶'
 
   tmux set-option -g status on
   tmux set-option -g status-left-length 100
